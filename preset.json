@@ -1,0 +1,6 @@
+﻿{
+    "buildName":  "dtvilla",
+    "jellyfinServerUrl":  "https://jellyfin.pcmunro.synology.me",
+    "title":  "Jellyfin installer for dtvilla",
+    "bundledWgt":  "Jellyfin-plugins.wgt"
+}
